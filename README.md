@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sujal Bhatt</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1>Hi 👋, I'm Sujal Bhatt</h1>
+<h3>A passionate Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
